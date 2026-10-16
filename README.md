@@ -10,3 +10,6 @@
 
 ## Kesan Pesan Cluster 10 Sejauh Ini 
 [Teman-teman di cluster sangat ramah dan kompak, ditambah kakak fasil yang selalu sabar membantu serta mengarahkan kami selama penugasan. Tetap jaga silaturahmi dan kekompakan ini ya, semoga kita bisa terus saling bantu sampai lulus nanti.] `
+
+## Harapan Kuliah 
+[Harapan saya selama kuliah adalah dapat memahami konsep dasar pemrograman dan rekayasa perangkat lunak secara mendalam, membangun portofolio proyek yang solid, aktif mengasah keterampilan teknis serta soft skill melalui komunitas kampus, dan dapat lulus tepat waktu dengan hasil yang memuaskan.] 
